@@ -34,7 +34,9 @@
  
 Markdown
 ### 📂 Примеры моих работ
-https://docs.google.com/spreadsheets/d/1-aP9TkZtU1K1jCg_mH7i1E9CRnOUwYMhqMjWvd8E0v4/edit?usp=sharing
+<img width="850" height="424" alt="Снимок экрана 2026-11-10 145051" src="https://github.com/user-attachments/assets/78706148-c264-48e9-9bef-caad049402e5" />
+<img width="848" height="390" alt="Снимок экрана 2026-11-10 145012" src="https://github.com/user-attachments/assets/21643cb4-c5e4-4fb0-b9c7-07a7c39570bc" />
+
 https://docs.google.com/document/d/1hI3pJSlnw-x3XKiRZC7ru0EY8TI-9k7WAtgQSQckBqs/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1JyGMeLcU2P5k0eEWMPW-PNlbs1o-A6uWS6k2Ujvt04A/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1xSTakAoROq4Qy-xUynvOhPtZibvo4C6zXbNs1XPOx_U/edit?usp=sharing
