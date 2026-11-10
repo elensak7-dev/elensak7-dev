@@ -35,7 +35,9 @@
 Markdown
 ### 📂 Примеры моих работ
 https://docs.google.com/spreadsheets/d/1-aP9TkZtU1K1jCg_mH7i1E9CRnOUwYMhqMjWvd8E0v4/edit?usp=sharing
-
+https://docs.google.com/document/d/1hI3pJSlnw-x3XKiRZC7ru0EY8TI-9k7WAtgQSQckBqs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1JyGMeLcU2P5k0eEWMPW-PNlbs1o-A6uWS6k2Ujvt04A/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1xSTakAoROq4Qy-xUynvOhPtZibvo4C6zXbNs1XPOx_U/edit?usp=sharing
 
 ---
 
