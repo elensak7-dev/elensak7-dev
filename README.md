@@ -37,6 +37,7 @@ Markdown
 - 👉Markdown
 <img width="678" height="426" alt="Снимок экрана 2026-11-10 115148" src="https://github.com/user-attachments/assets/d47728fb-6c47-4838-b204-4132584ff811" />
 <img width="668" height="506" alt="Снимок экрана 2026-11-10 115047" src="https://github.com/user-attachments/assets/7ff2d488-182d-4066-9711-9912984e5906" />
+<img width="530" height="342" alt="Снимок экрана 2026-11-10 115517" src="https://github.com/user-attachments/assets/08cc879a-4b42-4ccf-8c85-1555b3a329b5" />
 
 ---
 
